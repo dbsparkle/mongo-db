@@ -1,0 +1,8 @@
+name 'mongoDB'
+maintainer 'Domi'
+maintainer_email 'dimbs09@gmail.com'
+license 'Apache 2.0'
+description 'Installs/Configures mongoDB'
+long_description 'Installs/Configures mongoDB'
+version '0.1.0'
+depends 'mongodb'
